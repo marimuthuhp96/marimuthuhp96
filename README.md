@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Mari Muthu
 
-<!--
-**marimuthuhp96/marimuthuhp96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst | AI & RAG Enthusiast  
+📊 Power BI • SQL • Python  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Turning raw data into actionable insights  
+- Built real-world dashboards and AI-based projects  
+- Interested in Data Analytics, Machine Learning, and RAG systems  
+
+---
+
+## 🛠️ Skills
+- Python  
+- SQL  
+- Power BI  
+- Machine Learning  
+- NLP & RAG  
+
+---
+
+## 📂 Featured Projects
+🔹 **Groundwater RAG Chatbot**  
+AI-powered chatbot using RAG, vector search, and LLM  
+
+🔹 **Data Jobs Dashboard (Power BI)**  
+Interactive dashboard analyzing job trends and salaries  
+
+---
+
+## 📫 Contact Me
+📧 marimuthuhp96@gmail.com  
+📱 +91 9360145870  
+🔗 https://github.com/marimuthuhp96  
+
+---
+
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=marimuthuhp96&show_icons=true&theme=tokyonight)
