@@ -16,7 +16,7 @@
 
 ### ⚙️ Tech Stack
 <p>
-  Python • SQL • Power BI • Machine Learning • NLP • RAG
+  Python • SQL • Power BI • Excel • Machine Learning • NLP • RAG
 </p>
 
 ---
